@@ -1,0 +1,9 @@
+Package: interest
+Type: Package
+Title: Interest Rate Calculations 
+Version: 0.9
+Date: 2023-03-15
+Author: giacomo.gambaretti@usi.ch
+Maintainer: giacomo.gambaretti@usi.ch
+Description: More about what it does (maybe more than one line)
+License: GPL-3
